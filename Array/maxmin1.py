@@ -44,3 +44,4 @@ high = len(array)-1
 low = 0
 print(min,max)
 
+    
