@@ -11,6 +11,8 @@ def doUnion(a,b):
             u.append(i)
     return(len(u))
 
+# Method -2
+
 def printunion(a,n,b,m):
     u=set()
     for i in a:
